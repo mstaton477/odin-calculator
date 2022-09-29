@@ -1,5 +1,4 @@
 
-
 // //Create on click handlers
 const numArray = [].slice.call(document.querySelectorAll(".number"));
 const inputBar = document.querySelector("#input-bar");
